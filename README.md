@@ -1,3 +1,7 @@
+# Dojo
+
+Instructions : https://trello.com/b/pNFdq9d0/app-serverless-nextjs-et-mongodb-points-dentrée-connexion-à-la-base
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
